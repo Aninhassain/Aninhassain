@@ -8,7 +8,7 @@
 - 🏫 College: **Graphic Era Hill University**
 - 📍 India
 - 💻 I love building modern web applications, experimenting with AI & LLMs
-- 📈 Interested in Trading, Analytics & Real-Time Dashboards
+
 
 ---
 
@@ -25,5 +25,7 @@
 **Other**
 - Git & GitHub
 - Learning AI RAG, LangChain, LLMs
+
+  <h5>I am currently open to full-time and internship opportunities.</h5>
 
 Thanks for visiting my profile! �
