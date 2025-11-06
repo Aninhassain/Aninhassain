@@ -26,6 +26,6 @@
 - Git & GitHub
 - Learning AI RAG, LangChain, LLMs
 
-  <h5>I am currently open to full-time and internship opportunities.</h5>
+ <h3>* I am currently open to full-time and internship opportunities.</h3>
 
 Thanks for visiting my profile! �
